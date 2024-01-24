@@ -1,0 +1,24 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    padding: 0px;
+    margin: 0px;
+}
+#div1 {
+    text-align: center;
+    border: 2px solid black;
+    display: inline-grid;
+    justify-content: space-between;
+    width: 30%;
+    height: 10%;
+}
+.head{
+    border: 2px solid black;
+    width: 200px;
+}
+a{
+    width: 259%;
+    height: 85px;
+}
+#back {
+    width: 25px;
+}
